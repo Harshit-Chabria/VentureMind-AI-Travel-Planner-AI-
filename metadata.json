@@ -1,0 +1,7 @@
+{
+  "name": "VentureMind AI - Intelligent Travel Architect",
+  "description": "A high-fidelity travel planning assistant that prioritizes human energy, logical trade-offs, and dynamic replanning over simple lists. It creates realistic, explanation-driven itineraries that adapt to your mood and the weather.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
